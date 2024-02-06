@@ -1,4 +1,4 @@
-### Лабораторная работа №1
+#### Лабораторная работа №1
 
 ## Инструкции по запуску проекта
 1) Склонируйте репозиторий с проектом: git clone [https://github.com/your/repository.git](https://github.com/S1ngle777/Lab_1_PHP.git).
