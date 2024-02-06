@@ -1,7 +1,7 @@
 # Лабораторная работа №1
 
 ## Инструкции по запуску проекта
-1) Склонируйте репозиторий с проектом: git clone [https://github.com/your/repository.git](https://github.com/S1ngle777/Lab_1_PHP.git).
+1) Склонируйте репозиторий с проектом: git clone [https://github.com/S1ngle777/Lab_1_PHP.git](https://github.com/S1ngle777/Lab_1_PHP.git).
 2) Запустите веб-сервер: php -S localhost:8080.
 3) Откройте браузер и перейдите по адресу http://localhost:8080 для доступа к проекту.
 
